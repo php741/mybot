@@ -8,7 +8,7 @@ from eth_price import *
 
 hash_comprador = ""
 carteira_ethereum = "0x03fC32a7893487475617BeCF95A05813805b1D64"
-CHAVE_API ="6572730398:AAFgC82qtUpExTnvkm_jWjbG6E2lYec_Pw8"
+CHAVE_API =""
 
 bot = telebot.TeleBot(CHAVE_API)
 
